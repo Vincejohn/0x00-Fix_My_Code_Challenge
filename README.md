@@ -1,1 +1,1 @@
-Challenge of fix-my-code
+A challenge to fix-my-code
